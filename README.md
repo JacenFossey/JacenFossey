@@ -11,11 +11,11 @@ These are the programming languages I'm working on learning (in order of familia
 + C++
 + C
 + Crystal
-+ Lisp
++ PHP
 
 I'm also a web developer, fluent in HTML & CSS.
 
 In terms of backend work, I'm most familiar with MongoDB as a database, and NodeJS as everything else. 
-I'm working on learning Ruby on Rails.
+I'm working on learning Laravel.
 
 > Learning to code is learning to create & innovate 🦾
